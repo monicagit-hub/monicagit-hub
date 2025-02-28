@@ -1,6 +1,6 @@
 # Olá, Eu sou a Mônica, boas-vindas a todos 🫱🏼‍🫲🏻
 
-👩‍💻 Analista de Suporte | 🖥️ Focada atualmente em backend | ☕ Café na veia | 🎧 Hip Hop e Rock a todo vapor
+👩‍💻 Suporte ao usuário | 🖥️ Focada atualmente em backend | ☕ Café na veia | 🎧 Hip Hop e Rock a todo vapor
 
 ---
 
