@@ -1,9 +1,14 @@
 # Olá, Eu sou a Mônica, boas-vindas a todos 🫱🏼‍🫲🏻
 
+
 👩‍💻 Suporte ao usuário | 🖥️ Desenvolvedora Back-end  | ☕ Café na veia | 🎧 Hip Hop a todo vapor
+
+
 
 Atuo com suporte técnico ao usuário e estou aprofundando meus conhecimentos em Desenvolvimento de Software, com foco em Java com Spring Boot no backend e Angular no frontend.
 Tenho grande interesse em segurança da informação e inteligência artificial, buscando não só desenvolver, mas entender arquitetura, performance e segurança das aplicações.
+
+
 
 ---
 ### 🔎 Sobre Mim
@@ -12,6 +17,8 @@ Tenho grande interesse em segurança da informação e inteligência artificial,
  - 🔐 Cibersegurança e IA: Curiosa e engajada com temas ligados à segurança e inteligência artificial
  - 🤝 Disponibilidade: Aberta a novas oportunidades e colaborações na área de tecnologia
  - 📞 Contato direto: (47) 98496-1022
+
+---
 
 
 ### 🛠️ Tecnologias & Ferramentas
