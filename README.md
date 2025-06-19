@@ -1,15 +1,18 @@
 # Olá, Eu sou a Mônica, boas-vindas a todos 🫱🏼‍🫲🏻
 
-👩‍💻 Suporte ao usuário | 🖥️ Focada atualmente em backend | ☕ Café na veia | 🎧 Hip Hop e Rock a todo vapor
+👩‍💻 Suporte ao usuário | 🖥️ Desenvolvedora Back-end  | ☕ Café na veia | 🎧 Hip Hop a todo vapor
+
+Atuo com suporte técnico ao usuário e estou aprofundando meus conhecimentos em Desenvolvimento de Software, com foco em Java com Spring Boot no backend e Angular no frontend.
+Tenho grande interesse em segurança da informação e inteligência artificial, buscando não só desenvolver, mas entender arquitetura, performance e segurança das aplicações.
 
 ---
+### 🔎 Sobre Mim
+ - 🎯 Foco atual: Aprimoramento em Java e Spring Boot no backend, com exploração de Angular no frontend
+ - 📚 Aprendizado contínuo: Em constante evolução, estudando também conceitos de DevOps
+ - 🔐 Cibersegurança e IA: Curiosa e engajada com temas ligados à segurança e inteligência artificial
+ - 🤝 Disponibilidade: Aberta a novas oportunidades e colaborações na área de tecnologia
+ - 📞 Contato direto: (47) 98496-1022
 
-### Sobre Mim
-- 🎯 Estou aprimorando minhas habilidades com foco atual em **Angular** no frontend e **Java** no backend.
-- 📚 Sempre estudando e evoluindo em tecnologias como **Spring Boot** e **DevOps**.
-- 💡 Entusiasta de soluções em cibersegurança.
-- 📞 **Contato:** (47)98496-1022
----
 
 ### 🛠️ Tecnologias & Ferramentas
 
