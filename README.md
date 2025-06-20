@@ -15,7 +15,6 @@ Tenho grande interesse em segurança da informação e inteligência artificial,
  - 🎯 Foco atual: Aprimoramento em Java e Spring Boot no backend, com exploração de Angular no frontend
  - 📚 Aprendizado contínuo: Em constante evolução, estudando também conceitos de DevOps
  - 🔐 Cibersegurança e IA: Curiosa e engajada com temas ligados à segurança e inteligência artificial
- - 🤝 Disponibilidade: Aberta a novas oportunidades e colaborações na área de tecnologia
  - 📞 Contato direto: (47) 98496-1022
 
 ---
