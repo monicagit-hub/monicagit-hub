@@ -39,6 +39,5 @@ Tenho experiência em suporte ao usuário, o que fortaleceu minha capacidade de 
 ---
 -->
 ### 🌐 Onde me Encontrar
-
-[![Gmail](https://img.shields.io/badge/-monicamarcal93@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:monicamarcal93@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-gracioli/)
+  <a href="mailto:monicamarcal93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/monica-gracioli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
