@@ -1,7 +1,7 @@
 # Olá, Eu sou a Mônica, boas-vindas a todos 🫱🏼‍🫲🏻
 
 
-👩‍💻 Suporte ao usuário | 🖥️ Desenvolvedora Back-end  | ☕ Café na veia | 🎧 Hip Hop a todo vapor
+🖥️ Desenvolvedora Back-end | 👩‍💻 Suporte ao usuário | ☕ Café na veia | 🎧 Hip Hop a todo vapor
 
 
 
