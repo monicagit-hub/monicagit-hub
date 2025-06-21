@@ -1,55 +1,46 @@
-# Olá, Eu sou a Mônica, boas-vindas a todos 🫱🏼‍🫲🏻
+# Olá, eu sou a Mônica 👋🏼
 
+💻 Desenvolvedora Java Back-end | 🧑‍💻 Suporte Técnico | ☕ Café na veia | 🎧 Hip Hop em loop
 
-🖥️ Desenvolvedora Back-end | 👩‍💻 Suporte ao usuário | ☕ Café na veia | 🎧 Hip Hop a todo vapor
-
-
-
-Atuo com suporte técnico ao usuário e estou aprofundando meus conhecimentos em Desenvolvimento de Software, com foco em Java com Spring Boot no backend e Angular no frontend.
-Tenho grande interesse em segurança da informação e inteligência artificial, buscando não só desenvolver, mas entender arquitetura, performance e segurança das aplicações.
-
-
-
----
-### 🔎 Sobre Mim
- - 🎯 Foco atual: Aprimoramento em Java e Spring Boot no backend, com exploração de Angular no frontend
- - 📚 Aprendizado contínuo: Em constante evolução, estudando também conceitos de DevOps
- - 🔐 Cibersegurança e IA: Curiosa e engajada com temas ligados à segurança e inteligência artificial
- - 📞 Contato direto: (47) 98496-1022
+Tenho experiência em suporte ao usuário, o que fortaleceu minha capacidade de resolver problemas com agilidade e empatia. Atualmente, direciono meu foco para o desenvolvimento de software, com ênfase em Java e Spring Boot no back-end e Angular no front-end. Busco entender o desenvolvimento de forma completa — da escrita do código à arquitetura e segurança das aplicações — explorando tecnologias que envolvem automação, inteligência computacional e boas práticas de proteção de dados.
 
 ---
 
+### 🔍 Sobre Mim
+
+🎯 **Foco atual**: Aprofundamento em Java com Spring Boot para o back-end e Angular no front-end <br>
+📚 **Em constante evolução**: Estudo ativo de DevOps, arquitetura de software e boas práticas de desenvolvimento <br>
+🔐 **Interesses em destaque**: Cibersegurança e Inteligência Artificial, com olhar voltado à performance e segurança de aplicações <br>
+📍 Localização: Joinville - SC
+
+---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div style="display: inline_block"><br>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-</div>
+![REST API](https://img.shields.io/badge/-REST_API-blue?style=flat-square&logo=apachespark&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visualstudiocode)
+![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6db33f?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-005c84?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
 ---
+<!--
+### 💻 Projetos em Destaque
 
-### 🌍 Onde me Encontrar
-
-<div>
-  <a href="mailto:monicamarcal93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/monica-marcal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+- [API de Cadastro de Usuários](https://github.com/seurepo): CRUD com Spring Boot, banco de dados MySQL, e autenticação básica.
+- [ToDo App Angular](https://github.com/seurepo): Lista de tarefas com Angular, uso de serviços e armazenamento local.
 
 ---
+-->
+### 🌐 Onde me Encontrar
+
+[![Gmail](https://img.shields.io/badge/-monicamarcal93@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:monicamarcal93@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-gracioli/)
