@@ -11,7 +11,6 @@ Tenho experiência em suporte ao usuário, o que fortaleceu minha capacidade de 
 🎯 **Foco atual**: Aprofundamento em Java com Spring Boot para o back-end e Angular no front-end <br>
 📚 **Em constante evolução**: Estudo ativo de DevOps, arquitetura de software e boas práticas de desenvolvimento <br>
 🔐 **Interesses em destaque**: Cibersegurança e Inteligência Artificial, com olhar voltado à performance e segurança de aplicações <br>
-📍 Localização: Joinville - SC
 
 ---
 
@@ -24,7 +23,6 @@ Tenho experiência em suporte ao usuário, o que fortaleceu minha capacidade de 
 ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6db33f?style=flat-square&logo=springboot&logoColor=white)
