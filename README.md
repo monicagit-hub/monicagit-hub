@@ -6,14 +6,6 @@ Tenho experiência em suporte ao usuário, o que fortaleceu minha capacidade de 
 
 ---
 
-### 🔍 Sobre Mim
-
-🎯 **Foco atual**: Aprofundamento em Java com Spring Boot para o back-end e Angular no front-end <br>
-📚 **Em constante evolução**: Estudo ativo de DevOps, arquitetura de software e boas práticas de desenvolvimento <br>
-🔐 **Interesses em destaque**: Cibersegurança e Inteligência Artificial, com olhar voltado à performance e segurança de aplicações <br>
-
----
-
 ### 🛠️ Tecnologias & Ferramentas
 
 ![REST API](https://img.shields.io/badge/-REST_API-blue?style=flat-square&logo=apachespark&logoColor=white)
