@@ -2,8 +2,6 @@
 
 💻 Desenvolvedora Java Back-end | 🧑‍💻 Suporte Técnico | ☕ Café na veia | 🎧 Hip Hop em loop
 
-Tenho experiência em suporte ao usuário, o que fortaleceu minha capacidade de resolver problemas com agilidade e empatia. Atualmente, direciono meu foco para o desenvolvimento de software, com ênfase em Java e Spring Boot no back-end e Angular no front-end. Busco entender o desenvolvimento de forma completa — da escrita do código à arquitetura e segurança das aplicações — explorando tecnologias que envolvem automação, inteligência computacional e boas práticas de proteção de dados.
-
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
