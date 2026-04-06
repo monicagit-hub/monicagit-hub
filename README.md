@@ -1,6 +1,6 @@
 # Olá, eu sou a Mônica 👋🏼
 
-💻 Desenvolvedora Java Back-end | 🧑‍💻 Suporte Técnico | ☕ Café na veia | 🎧 Hip Hop em loop
+💻 Desenvolvedora Java Back-end | Banco de Dados | Segurança da Informação | ☕ Café na veia | 🎧 Hip Hop em loop
 
 ---
 
