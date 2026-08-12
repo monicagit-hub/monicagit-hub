@@ -1,8 +1,9 @@
 # Olá, eu sou a Mônica 👋🏼
-
+---
 💻 Suporte Técnico | ERP/SaaS | SQL | Banco de Dados
 🎓 Engenharia da Computação | Java & Spring Boot em desenvolvimento
 ☕ Café na veia | 🎧 Hip Hop em loop
+
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
